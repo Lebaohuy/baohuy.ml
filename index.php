@@ -31,7 +31,7 @@
 <img alt='profile card' src='/image/profile-card.png'/>
 </div>
 <div class='profile-card__cnt js-profile-cnt'>
-<div class='profile-card__name'>Nguyễn Ngọc Thức <i class='fa fa-check-circle' style='color:rgb(17, 143, 249)' title='Verified Author'></i>
+<div class='profile-card__name'>Lê Bảo Huy <i class='fa fa-check-circle' style='color:rgb(17, 143, 249)' title='Verified Author'></i>
 </div>
 <div class='profile-card__txt'>Tôi là <b>Lê Bảo Huy</b>, một người đam mê ca hát =)) chuyên <b>Hỗ trợ Dịch vụ Mạng Xã Hội</b> với ước mơ trở thành một Ca Sĩ chuyên nghiệp. Tôi thích khám phá, tìm tòi và học hỏi những điều thú vị trên mạng Internet. Biết đôi chút về <i>JavaScript, Node.js, React native</i> ...</div>
 <div class='profile-card-loc'>
@@ -72,7 +72,7 @@
 </div>
 <div class='profile-card-ctr'>
 <button class='profile-card__button button--blue js-message-btn'>Message</button>
-<button class='profile-card__button button--orange' onclick='window.open(&#39;https://www.facebook.com/Thuc9999;)'>Follow</button>
+<button class='profile-card__button button--orange' onclick='window.open(&#39;https://www.facebook.com/Erick.Profile;)'>Follow</button>
 </div>
 </div>
 <div class='profile-card-message js-message'>
