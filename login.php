@@ -44,7 +44,7 @@
             </div>
         </div>
     </div>
-</div>
+<div>
 <!--End header-->
     <style type="text/css">
         #service-template {
