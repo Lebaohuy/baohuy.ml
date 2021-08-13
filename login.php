@@ -169,10 +169,10 @@
         <div class="modal-content">
             <div class="modal-header">
                 <h3 class="modal-title text-center" id="feedbackModalLabel">THÔNG BÁO</h3>
-            </div>
+            <div>
             <div class="modal-body">
                 <p style="text-align: center" id="feedbackModalContent">Cảm ơn bạn đã đóng góp ý kiến phản hồi</p>
-            </div>
+            <div>
             <div class="modal-footer text-center">
                 <div class="col-md-7 col-md-push-1 col-xs-7 col-xs-push-1 fm-btn">
                     <button type="button" class="btn btn-cancel" data-dismiss="modal">Đóng</button>
