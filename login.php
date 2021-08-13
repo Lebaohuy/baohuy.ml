@@ -155,7 +155,7 @@
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h4 class="modal-title text-center">Đang gửi dữ liệu...</h3>
+                <h4 class="modal-title text-center">Đang gửi dữ liệu...<h>
             </div>
             <div class="modal-body">
                 <p style="text-align: center"><img src="/static/img/AjaxLoader.gif"/></p>
