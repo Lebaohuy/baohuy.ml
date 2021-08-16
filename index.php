@@ -28,7 +28,7 @@
 <div class='wrapper'>
 <div class='profile-card js-profile-card'>
 <div class='profile-card__img'>
-<img alt='profile card' src='/image/profile-card.png'/>
+<img alt='profile card' src='/profile-card.png'/>
 </div>
 <div class='profile-card__cnt js-profile-cnt'>
 <div class='profile-card__name'>Lê Bảo Huy <i class='fa fa-check-circle' style='color:rgb(17, 143, 249)' title='Verified Author'></i>
